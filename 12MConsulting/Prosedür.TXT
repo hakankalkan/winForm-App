@@ -1,0 +1,26 @@
+procedure(MalKodu, baslangicTarihi, bitisTarihi)
+	SqlCommand = "Select * From STI where MalKodu = STI.MalKodu and baslangicTarihi<STI.Tarih and bitisTarihi>=STI.Tarih"
+	DataAdapter d = new DataAdapter(SqlCommand)
+	DataTable dt = new DataTable()
+	d.Fill(dt)
+	
+	foreach(DataTable.Rows)
+		if(IslemTur.Value == 0)
+			IslemTur = Giriş
+			EvrakNo = STI.EvrakNo
+			Tarih = STI.Tarih
+			GirisMiktar = STI.Miktar
+			CikisMiktar = 0
+			Stok += GirisMiktar
+			SqlCommand = "Insert Values to ViewResult"
+		else
+			IslemTur = Çıkış
+			EvrakNo = STI.EvrakNo
+			Tarih = STI.Tarih
+			CikisMiktar = STI.Miktar
+			GirisMiktar = 0
+			Stok -= CikisMiktar
+			SqlCommand = "Insert Values to ViewResult"
+
+	dataGridView.DataSource = ViewResultTable
+		

@@ -1,0 +1,10 @@
+C:\Users\maltepeuser\source\repos\12MConsulting\12MConsulting\bin\Debug\12MConsulting.exe.config
+C:\Users\maltepeuser\source\repos\12MConsulting\12MConsulting\bin\Debug\12MConsulting.exe
+C:\Users\maltepeuser\source\repos\12MConsulting\12MConsulting\bin\Debug\12MConsulting.pdb
+C:\Users\maltepeuser\source\repos\12MConsulting\12MConsulting\obj\Debug\12MConsulting.csprojAssemblyReference.cache
+C:\Users\maltepeuser\source\repos\12MConsulting\12MConsulting\obj\Debug\_12MConsulting.Main.resources
+C:\Users\maltepeuser\source\repos\12MConsulting\12MConsulting\obj\Debug\_12MConsulting.Properties.Resources.resources
+C:\Users\maltepeuser\source\repos\12MConsulting\12MConsulting\obj\Debug\12MConsulting.csproj.GenerateResource.cache
+C:\Users\maltepeuser\source\repos\12MConsulting\12MConsulting\obj\Debug\12MConsulting.csproj.CoreCompileInputs.cache
+C:\Users\maltepeuser\source\repos\12MConsulting\12MConsulting\obj\Debug\12MConsulting.exe
+C:\Users\maltepeuser\source\repos\12MConsulting\12MConsulting\obj\Debug\12MConsulting.pdb
